@@ -1,0 +1,4 @@
+for each dataset,each line of the data in txt file is seperated by space.Assuming that data has n rows and m colummns,
+n is the sample number of the data points,
+the first m-1 column is the dimension of the data,
+and the m-th column is the label.
